@@ -5,6 +5,7 @@ public class userclass {
 
 	public static void main(String[] args) {
 		System.out.println("nihao 15.29");
+		System.out.println("nihao 15.29");
 
 	}
 
